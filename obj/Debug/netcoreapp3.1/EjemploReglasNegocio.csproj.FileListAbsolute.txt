@@ -1,0 +1,30 @@
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.exe
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.deps.json
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.runtimeconfig.json
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.runtimeconfig.dev.json
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.dll
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.pdb
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.csprojAssemblyReference.cache
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.AssemblyInfoInputs.cache
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.AssemblyInfo.cs
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.dll
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.pdb
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.genruntimeconfig.cache
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\xavol\OneDrive - SALUD S.A\Proyectos\_Varios\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.csproj.CopyComplete
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.exe
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.deps.json
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.runtimeconfig.json
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.runtimeconfig.dev.json
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.dll
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\EjemploReglasNegocio.pdb
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.csprojAssemblyReference.cache
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.AssemblyInfoInputs.cache
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.AssemblyInfo.cs
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.csproj.CopyComplete
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.dll
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.pdb
+C:\Users\xavolo\OneDrive\DotNetCore-Basicos\EjemploReglasNegocio\obj\Debug\netcoreapp3.1\EjemploReglasNegocio.genruntimeconfig.cache
